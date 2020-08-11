@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Aleksandar 👋
 
-<!--
-**aleksandarskrbic/aleksandarskrbic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer with primarily focuses on distributed and data-intensive systems.
+Love Scala and functional programming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Profiles:
+ * [LinkedIn](https://www.linkedin.com/in/aleksandar-skrbic/)
+ * [Twitter](https://twitter.com/skrbic_a)
+ * [Personal Blog](https://aleksandarskrbic.github.io/)
+ 
+ Conference/Meetup Talks:
+ *[End to End Data Science Project with Python and Kafka](https://www.youtube.com/watch?v=9rD0AGQ6Eqo)
+ *[Microservices Patterns w/ Akka and Kafka](https://youtu.be/CbAVz45Rowg)
+ *[London Scala Talks: Chris Birchall and Aleksandar Skrbic](http://www.lsug.co.uk/meetup/scala/scala-3/akka/kafka/functional-programming/2020/06/16/talk.html)
