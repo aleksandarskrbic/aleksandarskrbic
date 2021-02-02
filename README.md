@@ -8,7 +8,8 @@ Social Profiles:
  * [Twitter](https://twitter.com/skrbic_a)
  * [Personal Blog](https://aleksandarskrbic.github.io/)
  
- Conference/Meetup Talks:
+ Conferences/Meetups/Podcasts:
  * [End to End Data Science Project with Python and Kafka](https://www.youtube.com/watch?v=9rD0AGQ6Eqo)
  * [Microservices Patterns w/ Akka and Kafka](https://youtu.be/CbAVz45Rowg)
  * [London Scala Talks: Chris Birchall and Aleksandar Skrbic](https://www.youtube.com/watch?v=tt8ajKp5UMg)
+ * [Lightbend Podcast: How Akka Can Boost Your Scala Application](https://www.lightbend.com/blog/lightbend-podcast-how-akka-can-boost-your-scala-application)
