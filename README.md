@@ -1,7 +1,7 @@
 ### Hi, I'm Aleksandar 👋
 
-I’m a software engineer with primarily focuses on distributed and data-intensive systems.
-Love Scala and functional programming.
+I’m a freelance software engineer specialized in data engineering, microservices, distributed, and data-intensive systems.
+Passionate about Scala and functional programming.
 
 Social Profiles:
  * [LinkedIn](https://www.linkedin.com/in/aleksandar-skrbic/)
