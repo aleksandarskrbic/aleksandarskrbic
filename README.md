@@ -19,3 +19,4 @@ Articles:
  * [London Scala Talks: Chris Birchall and Aleksandar Skrbic](https://www.youtube.com/watch?v=tt8ajKp5UMg)
  * [Lightbend Podcast: How Akka Can Boost Your Scala Application](https://www.lightbend.com/blog/lightbend-podcast-how-akka-can-boost-your-scala-application)
  * [ZIO World - ZIO Kafka](https://www.youtube.com/watch?v=GECv1ONieLw)
+ * [Functional Scala 2020 - Reactive Data Pipelines](https://www.youtube.com/watch?v=Q5ecOFXDt0s)
