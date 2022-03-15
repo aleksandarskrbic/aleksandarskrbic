@@ -18,6 +18,6 @@ Articles:
  * [Microservices Patterns w/ Akka and Kafka](https://youtu.be/CbAVz45Rowg)
  * [London Scala Talks: Chris Birchall and Aleksandar Skrbic](https://www.youtube.com/watch?v=tt8ajKp5UMg)
  * [Lightbend Podcast: How Akka Can Boost Your Scala Application](https://www.lightbend.com/blog/lightbend-podcast-how-akka-can-boost-your-scala-application)
- * [ZIO World - ZIO Kafka](https://www.youtube.com/watch?v=GECv1ONieLw)
  * [Functional Scala 2020 - Reactive Data Pipelines](https://www.youtube.com/watch?v=Q5ecOFXDt0s)
+ * [ZIO World 2021 - ZIO Kafka](https://www.youtube.com/watch?v=GECv1ONieLw)
  * [Functional Scala 2021 - Building Asynchronous Microservices With ZIO](https://www.youtube.com/watch?v=F6f5l3vc_dQ)
