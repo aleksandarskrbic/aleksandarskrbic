@@ -21,3 +21,4 @@ Articles:
  * [Functional Scala 2020 - Reactive Data Pipelines](https://www.youtube.com/watch?v=Q5ecOFXDt0s)
  * [ZIO World 2021 - ZIO Kafka](https://www.youtube.com/watch?v=GECv1ONieLw)
  * [Functional Scala 2021 - Building Asynchronous Microservices With ZIO](https://www.youtube.com/watch?v=F6f5l3vc_dQ)
+ * [Scalar Conference 2023 - FUNCTIONAL PROGRAMMING AND KAFKA: DO THEY MIX? ](https://youtu.be/N5VyZ38iR2U)
